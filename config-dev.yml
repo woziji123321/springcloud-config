@@ -1,1 +1,2 @@
-test.aaaa  我在测试
+config:
+     info: master,this is config-dev.yml version:3
